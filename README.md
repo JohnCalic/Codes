@@ -1,4 +1,5 @@
-# weather_app
-
-A new Flutter project.
-"# Code" 
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> origin/main
